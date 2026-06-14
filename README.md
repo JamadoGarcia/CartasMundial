@@ -1,15 +1,15 @@
 # Cartas Mundial
 
-Aplicación web para explorar información del Mundial 2026 con una interfaz visual para consultar países, selecciones y stickers relacionados con el torneo.
+Aplicación web para llevar el control de las cartas del álbum del Mundial 2026.
 
 ## Descripción
-Cartas Mundial es un proyecto desarrollado con Laravel y React que permite navegar por una colección de datos deportivos de forma interactiva. Está pensado para mostrar información de los países participantes, sus stickers y una experiencia visual atractiva para los usuarios.
+Cartas Mundial está diseñada para registrar las cartas físicas que tienes del álbum del Mundial 2026 y visualizar fácilmente cuáles te faltan. La aplicación permite organizar tu colección, marcar las cartas que ya posees y consultar el progreso de tu álbum en un solo lugar.
 
 ## Funcionalidades
-- Exploración de países y selecciones
-- Vista de detalles por equipo
-- Visualización de stickers relacionados
-- Interfaz moderna y responsiva
+- Registro de cartas físicas del álbum del Mundial 2026
+- Seguimiento de las cartas que ya tienes
+- Visualización de las cartas que faltan
+- Interfaz sencilla e interactiva para gestionar tu colección
 - Proyecto listo para compartir en GitHub
 
 ## Tecnologías utilizadas
@@ -21,7 +21,7 @@ Cartas Mundial es un proyecto desarrollado con Laravel y React que permite naveg
 - JavaScript
 
 ## Objetivo
-Proporcionar una experiencia sencilla e interactiva para conocer y explorar el Mundial 2026 a través de una aplicación web moderna.
+Ayudar a los fanáticos del Mundial 2026 a llevar un control claro y práctico de su álbum físico, identificando rápidamente las cartas que ya tienen y las que aún faltan.
 
 ## Instalación
 1. Clona este repositorio
